@@ -1,9 +1,9 @@
-# 💻 Hi, I'm [Your Name]!
+# 💻 Hi, I'm Evans!
 
 🎓 I'm a student and full stack developer passionate about building web applications that solve real-world problems.
 
 ## 🚀 About Me
-- 🔭 Currently learning and building full stack projects using **PHP**, **Laravel**, **JavaScript**, **React**, and **MySQL**
+- 🔭 Currently learning and building full stack projects using **PHP**, **Laravel**, **JavaScript**, **React**, **Nextjs** and **MySQL**
 - 🌱 Exploring more about **API development**, **data visualization**, and **DevOps**
 - 📚 Final year student in **Bachelor of Information Technology**
 - 🧠 Always experimenting with new tools and frameworks
